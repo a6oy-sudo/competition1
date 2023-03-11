@@ -1,0 +1,237 @@
+.nav-bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    
+}
+
+.left{
+    
+    display: flex;
+    align-items: center;
+    padding-left: 80px;
+    
+    
+
+    
+}
+.left p{
+  padding-left: 40%;
+  color: gray;
+   
+}
+.nav-bar a{
+    color: gray;
+}
+.right {
+    padding-right: 80px;
+    
+    
+}
+
+
+.right a{
+    margin-right: 15px;
+    
+}
+
+.center p{
+border-style: solid;
+    padding: 5px;
+    width: 200%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav2 {
+    
+    align-items: center;
+    
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+
+
+}
+.nav2 p{
+    margin: 15px;
+    color: rgb(94, 94, 94);
+}
+.nav2 .p1{
+color: purple;
+
+}
+.hb{
+    display: flex;
+    background-color: rgb(223, 221, 221);
+    height: 40px;
+    align-items: center;
+    
+}
+.hb span{
+    color: rgb(200, 16, 179);
+
+}
+.hb2{
+   padding: 70px; 
+}
+
+.l-f {
+    display: flex;
+justify-content: space-between;
+align-items: flex-start;
+padding: 80px 60px;
+
+    
+}
+.main-right{
+
+}
+
+
+
+
+.left-l{
+    
+    flex-basis: 30%;
+    
+    padding: 0 30px;
+    
+
+
+    
+}
+    
+
+.right-f{
+    border: 2px solid rgb(0, 0, 0);
+    flex-basis: 60%;
+    height: 500px;
+   
+    display: flex;
+
+}
+
+
+.first{
+   
+   
+}
+.second{
+  
+    margin-top: 20px;
+}
+.third{
+    
+    margin-top: 20px;
+}
+input {
+    accent-color: rgb(128, 0, 128);
+}
+
+
+
+.left-l h3{
+   
+    background-color: rgb(154, 154, 154);
+    width: 150px;
+margin:0 auto 20px;
+text-align: center;
+padding: 10px 5px;
+
+
+}
+.left-l .first{
+    padding: 10px 20px;
+    border-radius: 15px;
+    box-shadow: 0px 0px  15px rgba(0,0,0,1);
+    transition: all 0.5s;
+    
+}
+.left-l .first
+.left-l .first:hover{
+    transform: scale(1.1);
+    
+}
+.left-l .first a{
+    text-decoration: none;
+    font-size: 20px;
+
+}
+.left-l .second{
+    padding: 10px 20px;
+}
+.left-l .second{
+    padding: 10px 20px;
+    border-radius: 15px;
+    box-shadow: 0px 0px  15px rgba(0,0,0,1);
+    transition: all 0.5s;
+ }   
+.left-l .second input{
+    margin-right: 50px;
+    display: inline-block;
+
+}
+.left-l .second span{
+    font-size: 20px;
+
+}
+.third .div {
+    display: flex;
+   
+}
+.third{
+   
+    padding: 10px 20px;
+    border-radius: 15px;
+    box-shadow: 0px 0px  15px rgba(0,0,0,1);
+    transition: all 0.5s;
+}
+.third [type=color]{
+    border-radius: 100%;
+    
+}
+
+input#red{
+
+    accent-color: red;
+
+}
+input#green{
+
+    accent-color: green;
+
+}
+input#blue{
+
+    accent-color: blue;
+
+}
+input#purple{
+
+    accent-color: purple;
+
+}
+.main-right{
+
+
+
+}
+section  .first-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
